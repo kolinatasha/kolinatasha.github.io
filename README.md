@@ -1,6 +1,5 @@
-# STILL-inspired Portfolio (GitHub Pages)
+# Natasha Koli Portfolio (deployed on GitHub)
 
-Minimalist, image-first portfolio inspired by stillblog.net.
 
 ## Deploy
 1. Create repo named **<your-username>.github.io**
